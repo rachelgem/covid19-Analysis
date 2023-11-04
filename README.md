@@ -33,9 +33,11 @@ The global COVID-19 pandemic brought about unprecedented changes in various aspe
   - Detect and removed duplicate entries to ensure data integrity.
   - Filtered data from country column that are significantly different from the rest of the dataset.
 
-    ## Visualization and Analysis
+## Visualization and Analysis
 
     ![]()
-
-
-
+- The United States stands out with the highest traffic at 4,500 followed by Canada with 2,200. In contrast, Austraila and Chile had the lowest traffic volumes.
+- October had the highest peak wih 52,000 followed by November at 51,000 and December experieced the lowest at 4,000.
+- Quebec takes the top spot with 500, followed by California with 240, British Columbia at 200 and the Santiago province recorded the lowest traffic volume.
+- Newark Liberty International, San Francisco International, Seatle Tacoma International, Toronto Pearson International, Vancouver International, Washington Dulles 
+  International and Winniepeg International all share a high traffic volume each recording 268. In contrast, Santiago stands out with the lowest traffic volume with 238.
