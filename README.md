@@ -13,7 +13,7 @@ The global COVID-19 pandemic brought about unprecedented changes in various aspe
 - How did airport traffic vary by state?
 - How does the volume of airport traffic vary between different airports?
 
-  ## Skills
+## Skills
 
   - Research Skills.
   - Problem Solving.
@@ -23,7 +23,7 @@ The global COVID-19 pandemic brought about unprecedented changes in various aspe
   - Adaptability.
   - Time Management.
  
-  ## COVID-19 Influence Study
+ ## COVID-19 Influence Study
 
   At this point, I initiate the process of acquainting myself with the data. I gather insights about the dataset, identify areas requiring cleaning, address missing information, assess data organization, and confirm whether we possess the necessary information to address problem statement.
 
