@@ -43,4 +43,4 @@ The global COVID-19 pandemic brought about unprecedented changes in various aspe
   International and Winniepeg International all share a high traffic volume each recording 268. In contrast, Santiago stands out with the lowest traffic volume with 238.
 
 ## Recommendation
-- Considering the variation in airport traffic patterns due to COVID-19, it's advisable to tailor travel plans based on the current situation in each country. Prioritize destinations with lower traffic volumes, such as Australia and Chile, for potentially safer and less crowded travel experiences. Stay informed about travel restrictions and health guidelines in each location to make well-informed decisions.
+- Considering the variation in airport traffic patterns due to COVID-19, it's advisable to tailor travel plans based on the current situation in each country. Prioritize destinations with lower traffic volumes, such as Australia and Chile, for potentially safer and less crowded travel experiences. Stay informed about travel restrictions and health guidelines in each location to make well-informed decisions.Prioritize locations with fewer reported cases for a more secure travel experience.
