@@ -1,6 +1,6 @@
 ### Analysis of COVID-19's Effect on Airport Traffic
 
-![](COVID_19.PNG)
+![](covid_19.Jpg)
 
 ***
 ## Introduction
@@ -36,7 +36,8 @@ The global COVID-19 pandemic brought about unprecedented changes in various aspe
 
 ## Visualization and Analysis
 
-    ![]()
+![](COVID_19.PNG)
+
 - The United States stands out with the highest traffic at 4,500 followed by Canada with 2,200. In contrast, Austraila and Chile had the lowest traffic volumes.
 - October had the highest peak wih 52,000 followed by November at 51,000 and December experieced the lowest at 4,000.
 - Quebec takes the top spot with 500, followed by California with 240, British Columbia at 200 and the Santiago province recorded the lowest traffic volume.
