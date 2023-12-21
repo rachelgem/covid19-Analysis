@@ -1,6 +1,7 @@
 ### Analysis of COVID-19's Effect on Airport Traffic
 
-![]()
+![](COVID_19.PNG)
+
 ***
 ## Introduction
 The global COVID-19 pandemic brought about unprecedented changes in various aspects of our lives, and one of the sectors significantly impacted was airport traffic. As the world grappled with the challenges of this novel virus, airports became focal points of scrutiny, adaptation, and transformation. In this analysis, we will delve into the profound effects that COVID-19 had on airport traffic.
