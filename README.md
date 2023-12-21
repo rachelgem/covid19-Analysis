@@ -1,6 +1,6 @@
 ### Analysis of COVID-19's Effect on Airport Traffic
 
-![](covid_19.Jpg)
+![](covid_19.jpg)
 
 ***
 ## Introduction
